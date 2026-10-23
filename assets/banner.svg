@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Osvaldo Neira</title>
+<desc id="desc">Ingeniero Comercial. Estudiante de Magíster en Data Science. Negocios, datos y aprendizaje.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="0"><stop stop-color="#f7f5ef"/><stop offset="1" stop-color="#e9f1ed"/></linearGradient>
+  <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#14867c" stop-opacity=".20"/><stop offset="1" stop-color="#14867c" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#0c4a50" opacity=".12"/></pattern>
+</defs>
+<rect width="1280" height="360" rx="8" fill="url(#bg)"/>
+<rect x="824" width="456" height="360" fill="url(#grid)"/>
+<rect x="48" y="48" width="36" height="4" rx="2" fill="#14867c"/>
+<text x="98" y="55" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2.3" fill="#366268">NEGOCIOS · DATOS · APRENDIZAJE</text>
+<text x="48" y="143" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2" fill="#132d42">Osvaldo Neira</text>
+<text x="51" y="190" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#244858">Ingeniero Comercial</text>
+<text x="51" y="226" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#244858">Estudiante de Magíster en Data Science</text>
+<path d="M51 262H655" stroke="#cad7d2"/>
+<text x="51" y="300" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#53706d">Transformar preguntas en decisiones con datos.</text>
+<g fill="none" stroke="#37636a" stroke-opacity=".25" stroke-width="1.5">
+<path d="M902 194L957 116L1040 146L1106 79L1198 126L1165 217L1069 239L1021 292L933 266L902 194L1040 146L1069 239L957 116L1106 79L1165 217L1040 146L1198 126"/>
+<path d="M933 266L1040 146M902 194L1069 239M1069 239L1198 126M957 116L933 266"/>
+</g>
+<g fill="#29636c"><circle cx="902" cy="194" r="7"/><circle cx="957" cy="116" r="10"/><circle cx="1106" cy="79" r="7"/><circle cx="1198" cy="126" r="9"/><circle cx="1165" cy="217" r="11"/><circle cx="1021" cy="292" r="6"/><circle cx="933" cy="266" r="8"/></g>
+<circle cx="1040" cy="146" r="19" fill="#14867c"/>
+<circle cx="1040" cy="146" r="29" fill="none" stroke="#14867c" stroke-opacity=".15" stroke-width="7"/>
+<circle cx="1069" cy="239" r="15" fill="#cd8a51"/>
+<path d="M864 308L921 286L973 295L1022 251L1084 263L1133 207L1218 178V338H864Z" fill="url(#area)"/>
+<path d="M864 308L921 286L973 295L1022 251L1084 263L1133 207L1218 178" fill="none" stroke="#14867c" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="1218" cy="178" r="5" fill="#14867c"/>
+</svg>
